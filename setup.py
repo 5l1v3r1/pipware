@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
   name="pipware",
-  version="1.01",
+  version="1",
   author="CodeUK",
   author_email="d@doop.fun",
   description="Malicious Python Module Experimentation",
